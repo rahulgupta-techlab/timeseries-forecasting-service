@@ -66,3 +66,7 @@ simple (a single well-understood exponential smoothing method) so the overall
 pipeline (data -> model -> backtest -> API) is easy to follow and extend, e.g.
 by swapping in a different `statsmodels` or `prophet`-style model behind the
 same `fit_and_forecast` interface.
+
+## License
+
+Copyright (c) 2026 Rahul Gupta. All rights reserved. Published for viewing and evaluation only; copying or reuse requires written permission. See [LICENSE](LICENSE).
